@@ -1,0 +1,16 @@
+{
+  "name": "convenia-vue-generator",
+  "version": "0.0.1",
+  "description": "Gerador de projetos com vue2, vuex e vue-router",
+  "dependencies": {
+    "gulp-snippet-injector": "0.0.7",
+    "lodash": "^4.16.3",
+    "yeoman-generator": "^0.24.1"
+  },
+  "author": "rafael.abensur@convenia.com.br",
+  "license": "MIT",
+  "main": "generators/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
